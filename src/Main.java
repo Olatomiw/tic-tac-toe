@@ -35,7 +35,8 @@ public class Main {
                 break;
             }else {
                 numberOfSquaredPlayed++;
-                whoseTurnIsItr = (whoseTurnIsItr=='x') ?'o':'x';
+
+                ;
             }
         }
         printTheBoard(board);
